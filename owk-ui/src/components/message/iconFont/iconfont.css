@@ -1,0 +1,33 @@
+@font-face {font-family: "owk";
+  src: url('iconfont.eot?t=1563699893704'); /* IE9 */
+  src: url('iconfont.eot?t=1563699893704#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQQAAsAAAAACWQAAAPBAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDKgqGPIUTATYCJAMUCwwABCAFhDEHUhvlB8gekiRCQAEFAAAi8LAI6tc+e/a93UNUjOoklgcsDwES9oQLq6gIFRWjU5EApBL5fz43fZFa6DzMTr9iTkUlDT/BQ0OAzenNTjP1a49up/a240bE///3U//q+BO49gmGGvVWFTaq1hlGBMhG0qDTifkW2R3BWvJpAo0GRCK2iioawFtmTArEVb3IgXdKLdegUC+rSlZmiFvgob4YJEeAm/7z4weshDcolAmMmdtnhVrQfL67/oFyuc+hwyWAC2cEt46EOSATl0vNJ6gwPIfSqCTTVoF601gAFX21/sFdo9T3vK2I6+kfHqGQZKICQ9xMGGuRzOe7Nknw+RVJwef3JInPH3gPRVyS+xvRhH/EMbCZdNyJacrXd3dooMPy9zs6vt40utowttY4PNF84crl++zIKJNHExvNx7pGNWcv3Xuw78+EyXVu+AJB9Z8fOgtETCOEPIP2iRc+BKtNaTp/9+wltRnsN52/hzS60bHGXWMTTeHn79+9qA579rRo5/vXMcYXw1H43L0HV/b2TsjUcr88C9afdS0NkxLq3yv0cqk1hIueQmiKNj0I0VPx3NZbqflJjj0/4xwLpxJq/tAG/kO4Doseled/JLgk/2BgS3vwgOqaak49p8p2aUZaxPcIT6YdrBiRKLKbrCMiCb2974jdopyrMFUAGt/dUMybtwbnJ3IVpFclJO4E50W3BB7ML8mx94HX39uHlNaLmouREy0JqryWBz7MvHqe0cxH9dLHM2qYTaazsO6eb6oEdosVOrVO9h9JGBDY/6wjgYWtrhFhJ1Bzzyd3CvipLvO/8VFo947Mv94qGuBZW/k7n9Uu00VDOgf4M7itub8QziBdIKt8Q1NmmWdba3SfHKU1FK9EqdG0UyP2TvMw0p7WiJD2xFCo0w9JMkjJjBEoNRmHSrIEjWYlrG/SpQslsg8wow/hwNIHGAqtHkJSeUTJjMdQ6vUFV6b0KYZGhyZ2bDIRUUy+jDkFa1HvYaTnJYtg9VUYyWmsw6LdxMkhC/drwrJNL1lQXHRsKlaMLVhuP8fmEOMVRUCCLJlRUcfzsMkkIassGTCvROsUxZoeEyOUXSmal8zA2CTDOApMC+l1GKLHk1gI7rkKxg1ORnUwkZ0JR85zsbEJVsw2+tbZSJxoseWUYrGlLu8Uy20cRPEUCgEiAEbNkKJJjZjJDEsQa/kwA4yniKbrEbRKF0PqCW3F0YuXmu8ihosw5pRBEhRBEx6EJzRd2m+nbOaUo93Ny2bneWyzeTs52aK3iHEeTlnyVAAAAAA=') format('woff2'),
+  url('iconfont.woff?t=1563699893704') format('woff'),
+  url('iconfont.ttf?t=1563699893704') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1563699893704#owk') format('svg'); /* iOS 4.1- */
+}
+
+.owk {
+  font-family: "owk" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.owk-icon-information:before {
+  content: "\e6a4";
+}
+
+.owk-icon-success:before {
+  content: "\e6b1";
+}
+
+.owk-icon-warning1:before {
+  content: "\e6b6";
+}
+
+.owk-icon-wrong:before {
+  content: "\e6b7";
+}
+
